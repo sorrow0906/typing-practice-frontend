@@ -52,7 +52,7 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ targetChar }) => {
                     ))}
                 </div>
             ))}
-            {/* Space Bar */}
+            {/* 스페이스 바 */}
             <div style={{ display: 'flex', marginTop: '4px' }}>
                 <div style={{
                     width: '300px',
